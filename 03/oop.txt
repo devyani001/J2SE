@@ -1,0 +1,51 @@
+C/C++ is machine dependent (1975 - 1979) free Linux, Ubantu, RedHat
+    - Kane thomson's language is 'B'.
+    - B la powerful banvun apn hi lang banavli so called it as 'C' lang.
+java is machine independent
+
+
+1995 - copyright
+web application - website
+Jonathon & Joton Brothers made Browser called 'Hot Java Browser'.
+23 jan 1996 jagala pahilyanda vaparayla milali, in the form of 'JDK 1.0'
+
+
+class = data member + member methods
+    - jya lokanni OOP Principles lihli na tya lokanni methods la 'Behaviours' mhtl.
+    - OOP Principles 'Grady Gooj' ni lihle.
+class is the blueprint to create an object.
+
+object
+1) name
+2) state
+3) Behaviour
+4) Identity
+
+Q. What is class ?
+---------------------
+--> Class is a blueprint to create an object.
+--> Class is collection of Data members and methods.
+--> Class is an ADT (Abstract Data Type).
+    - jr ekhady type mule data ani member donhi milt asel tr tyala 'Abstract Data Type' mhnaycha.
+
+
+Q. What is an object ?
+------------------------
+--> Object is a variable of type class.
+--> Object is an instance of a class.
+
+
+Q. Why Java is called as Object Oriented Programming Language ?
+------------------------------------------------------------------
+Ans:
+    The lang is said to be an OOP language iff is has following features-
+        1. class & Object
+        2. Encapsulation
+            --> Binding data members and member methods together is called as Encapsulation.
+            --> It achived using 'class' keyword.
+        3. Abstraction
+        4. Inheritance
+        5. Polymorphism
+    
+    jr ekadhya lang evdhe jr features astil tr ti lang ky ahe Object Oriented Programming.
+    like C,C++,Java,Python,dotNet
