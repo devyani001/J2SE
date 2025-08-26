@@ -1,0 +1,67 @@
+what is an object ?
+======================
+
+variable
+1) la name aste
+2) madhe data asto
+3) la value aste
+4) la address asto
+
+then what is a variable
+----------------------------
+--> A memory layout which contains a DATA/VALUE which can be changed later if needed.
+--> variable cha content which is STATE of variable.
+
+i = 10;
+:
+:
+i++;            <--- we are changing STATE of a variable. (c-pgm by denis richerd)
+i = 70;
+
+what we have learnt till now
+-------------------------------
+--> variable mhnje ashi memory jyat amhi data theu skto.
+--> ani tya memory tla data change pn kru skto.
+--> variable cha content ha variable cha ky represent krto STATE represent krto.
+
+
+OBJECT
+===========
+
+--> ashi memory jila data pn aste ani Method pn aste.
+--> object madhe data la jaga milte.
+--> object vaprun method tumhi access karu shakta.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+difference btw variable and object
+-----------------------------------
+
+Variable
+--> data
+--> variable ha datatype pasun bnto (eg: int i = 10;)
+
+Object
+--> data + method
