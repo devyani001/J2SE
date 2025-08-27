@@ -1,0 +1,34 @@
+revise,
+--> what is java
+--> why we hava to learn java
+
+Q. What is JDK ?    (python - SDK)
+------------------------------------
+--> JDK (Java Development Kit)
+    1) Development Tools
+    2) JRE (Java Runtime Env)
+--> To develop and run java program we need to install a software is called as JDK.
+--> JDK = Development Kit + JRE
+--> JRE = Library classes + JVM
+    
+    Be Aware
+    =================
+    Development Kit - he pkt translated code deil, JDK tla Javac ha tumhala code translate krun deil pn, ithe demo.java aste
+    JRE             - ani to code run krayla tumhala JRE lagnar ahe
+
+C    - gcc
+C++  - g++
+Java - javac
+
+--> JDK install kel mhnje Development Kit pn install zali ani JRE pn install zal.
+--> Java che pgm run kon krnar ahe 'JVM'
+
+Java is taken by Oracle from Sun microsystems in 2010
+Java cha update kevha yeto - dar 6 mahina nantr, jevha pasun Oracle ni takeover kel tevha pasun.
+1st update march, 2nd update september.
+min java version 17 pahije,
+red    - ha tyacha beta version ahe , testing mode ahe yachyat jr khi bug ale tr tyat update krun pudhch version yete.
+yellow -
+LTS    - long term support
+
+D:\2025\CJ-B21\jdk-21_windows-x64_bin\jdk-21.0.8\bin
