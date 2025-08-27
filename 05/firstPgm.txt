@@ -1,0 +1,9 @@
+What is editor ?
+------------------
+--> Editor is a s/w used to write/develop .txt, .c, .java, .py f8esl
+--> Example:
+        Window : notepad, wordpad, sublime, VS
+        Linux  : vim, gedit.
+
+download zalele application 'control panel' madhe aste.
+environment varables setting
