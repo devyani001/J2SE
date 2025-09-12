@@ -1,0 +1,9 @@
+1) Class name = starts with Capital letter
+2) System   - class
+3) out      - object
+4) println  - non static method
+5) String   - class
+
+
+--> java jo class Public ahe tya class madhe main asnar ahe.
+--> jr class chya pahile public lihl tr class name ani file name same pahije.

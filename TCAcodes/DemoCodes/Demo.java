@@ -1,4 +1,6 @@
-/*java madhe kuthlihi gosti capital letter ni suru honari asel tr ti class name aste.
+package DemoCodes;
+
+/* java madhe kuthlihi gosti capital letter ni suru honari asel tr ti class name aste.
 
 out.println("Hello World");
 ob.display("Hello World");
